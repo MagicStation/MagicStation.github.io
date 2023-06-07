@@ -1,2 +1,2 @@
-# MagicStation.github.io
-https://MagicStation.github.io
+# MagicStation
+Web: https://MagicStation.github.io
